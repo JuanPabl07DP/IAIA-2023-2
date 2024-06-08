@@ -1,4 +1,4 @@
-# **Universidad Escuela Colombiana de Inegiería Julio Garavito**
+# **Universidad Escuela Colombiana de Ingeniería Julio Garavito**
 
 ## **Fundamentos de la Inteligencia Artificial 2023-2**
 
